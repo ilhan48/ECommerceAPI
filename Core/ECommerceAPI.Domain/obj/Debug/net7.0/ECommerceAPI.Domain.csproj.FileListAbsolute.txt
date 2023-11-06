@@ -1,0 +1,11 @@
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.AssemblyInfoInputs.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.AssemblyInfo.cs
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.csproj.CoreCompileInputs.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/bin/Debug/net7.0/ECommerceAPI.Domain.deps.json
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/bin/Debug/net7.0/ECommerceAPI.Domain.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/bin/Debug/net7.0/ECommerceAPI.Domain.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/refint/ECommerceAPI.Domain.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ECommerceAPI.Domain.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Core/ECommerceAPI.Domain/obj/Debug/net7.0/ref/ECommerceAPI.Domain.dll

@@ -1,0 +1,5 @@
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/obj/Debug/net7.0/ECommerceAPI.Persistence.csproj.AssemblyReference.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/obj/Debug/net7.0/ECommerceAPI.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/obj/Debug/net7.0/ECommerceAPI.Persistence.AssemblyInfoInputs.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/obj/Debug/net7.0/ECommerceAPI.Persistence.AssemblyInfo.cs
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Persistence/obj/Debug/net7.0/ECommerceAPI.Persistence.csproj.CoreCompileInputs.cache

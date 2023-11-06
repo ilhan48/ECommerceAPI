@@ -1,0 +1,17 @@
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.deps.json
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Infrastructure.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Application.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Domain.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Application.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/bin/Debug/net7.0/ECommerceAPI.Domain.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.AssemblyReference.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.AssemblyInfoInputs.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.AssemblyInfo.cs
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.csproj.CopyComplete
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/refint/ECommerceAPI.Infrastructure.dll
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ECommerceAPI.Infrastructure.pdb
+/Users/ilhanodun/Documents/im-soft/e-commerce-app/ECommerceAPI/Infrastructure/ECommerceAPI.Infrastructure/obj/Debug/net7.0/ref/ECommerceAPI.Infrastructure.dll

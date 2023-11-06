@@ -1,0 +1,10 @@
+dotnet new sln
+mkdir src
+
+dotnet new console -o src/Sample.Console
+dotnet sln add src/Sample.Console/Sample.Console.csproj
+dotnet new classlib -o StringLibrary
+dotnet sln add StringLibrary/StringLibrary.csproj
+
+dotnet add app/app.csproj reference lib/lib.csproj
+dotnet add reference lib1/lib1.csproj lib2/lib2.csproj
